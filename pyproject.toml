@@ -22,6 +22,7 @@ dependencies = [
     "langchain-ollama>=1.1.0",
     "langchain-openai>=1.2.2",
     "langchain-pinecone>=0.2.13",
+    "langchain-qdrant>=1.1.0",
     "langchain-text-splitters>=1.1.2",
     "langchain-unstructured>=1.0.1",
     "matplotlib>=3.10.9",
